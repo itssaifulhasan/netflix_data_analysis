@@ -1,8 +1,8 @@
 ## Exploratory Data Analysis (EDA) on Netflix Movies and TV Shows
 **Saiful Hasan [LinkedIn](https://www.linkedin.com/in/saifulhasan22/)**
 
-<img src="./images/1.png" width="300" height="100"/>
-<img src="../images/netflix-logo.png" width="300" height="100"/>
+<img src="./images/1.png" width="500" height="200"/>
+<img src="./images/netflix-logo.png" width="500" height="200"/>
 
 Recently, from Kaggle, I have got a large dataset that consists of tv shows and movies available on Netflix as of 2019. The dataset was collected from a third-party Netflix engine called Flixable. The dataset was released in 2018 in an exciting report that presented the number of TV shows on Netflix has nearly tripled since 2010 ([Shivam Bansal](#https://www.kaggle.com/shivamb/netflix-shows)).I did some preliminary exploratory data analysis (EDA) with a curiosity to derive some insights from this data. EDA is a critical approach to perform an initial investigation on the dataset. We, data scientists and researchers, conduct EDA to summarize the data's main characteristics and discover the pattern and methodologies. EDA helps us to explore what our data could tell us beyond the formal modeling or hypothesis testing task. It is a common approach to use visual methods in EDA to represent insights because it is considered more interpretable to both technical and non-technical audiences. 
 
