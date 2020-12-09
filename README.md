@@ -48,4 +48,9 @@ We have data of 6234 Netflix contents. The data inlcuded information related to 
 
 ![image](./images/director.png)
 
-**we don't list of directors of all the contents since 2009. We had missing values for around 1969 directors. We have a list of directors for about 4265 contents. However, this above list shows the top 15 directors with the highest number of movies added on Netflix over the last decade, and we see that Jan Suter stands top in the list, followed by director Rail Campos.**
+**we don't have list of directors of all the contents since 2009. We had missing values for around 1969 directors. We have a list of directors for about 4265 contents. However, this above list shows the top 15 directors with the highest number of movies added on Netflix over the last decade, and we see that Jan Suter stands top in the list, followed by director Rail Campos.**
+
+#### Data Reference:
+This data was collected from kaggle. The link is given below:
+- https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year
+- the data was uploaded by Shivam Bansal on Kaggle 
