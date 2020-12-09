@@ -20,15 +20,15 @@ We have data of 6234 Netflix contents. The data inlcuded information related to 
 
 ![image](./images/movie_1.png)
 
-**This chart suggests that most of the movies added on Netflix are produced in the United States, followed by India. This chart shows only the top 15 countries. As of 2019, around 1,900 American movies were added on Netflix, whereas 738 Indian movies were present on Netflix. Except for the US, India, South Korea, China, the UK, Bulgaria, Spain, all other countries have less than 100 of their movies on Netflix. There are movies from around 107 countries added to Netflix since 2010.**
+**This chart suggests that most of the movies added to Netflix are produced in the United States, followed by India. This chart shows only the top 15 countries. As of 2019, around 1,900 American movies were added to Netflix, whereas 738 Indian movies were present on Netflix. Except for the US, India, South Korea, China, the UK, Bulgaria, Spain, all other countries have less than 100 movies on Netflix. There are movies from around 107 countries added to Netflix since 2010.**
 
 ![image](./images/tv_show_1.png)
 
-**This chart suggests that most of the TV shows added on Netflix are produced in the United States, followed by United Kindom. This chart shows only the top 15 countries. In contrast to movies, for TV shows, India stands at 8th position.**
+**This chart suggests that most of the TV shows added to Netflix are produced in the United States, followed by United Kindom. This chart shows only the top 15 countries. In contrast to movies, for TV shows, India stands at 8th position. there were around 700 American TV shows added to Netflix compare to only 223 UK based TV shows since 2010.**
 
 ![image](./images/tv_show_2.png)
 
-**We observed an increased number of TV shows produced in the United States added to Netflix content over the decade. This is also helpful to explain why the US stands top in the total number of TV shows on Netflix. We observed that most of the American movies added to Netflix were produced between 2014-2019.**
+**We observed an increased number of TV shows produced in the United States added to Netflix over the decade. This is also helpful to explain why the US stands top in the total number of TV shows on Netflix. We observed that most of the American TV shows added to Netflix were released between 2014-2019.**
 
 ![image](./images/movie_2.png)
 
@@ -36,7 +36,7 @@ We have data of 6234 Netflix contents. The data inlcuded information related to 
 
 ![image](./images/duration.png)
 
-**This distribution graph shows that most of the movies on Netflix have a duration of around 100 minutes. The exact average is 99 minutes for movies, which is approximately 1 hour and 30 minutes.**
+**This distribution graph shows that most of the movies on Netflix have a duration of around 100 minutes. The exact average duration is 99 minutes for movies, which is approximately 1 hour and 40 minutes.**
 
 ![image](./images/season.png)
 
@@ -44,11 +44,11 @@ We have data of 6234 Netflix contents. The data inlcuded information related to 
 
 ![image](./images/duration_2.png)
 
-**This graph shows the changes in the duration of movies over the years and we can see that movies from 1940 had lower duration compared to recent movies. There were also movies below 1 hour and above 3 hours. However, from around the 1970s, most movies have a duration between  1.5 hrs and 2 hrs.**
+**This graph shows the changes in the duration of movies over the years and we can see that movies in 1940 had lower duration compared to recent movies. There were also movies with duration below 1 hour and above 3 hours. However, from around the 1970s, most movies have a duration between  1.5 hrs and 2 hrs.**
 
 ![image](./images/director.png)
 
-**we don't have list of directors of all the contents since 2009. We had missing values for around 1969 directors. We have a list of directors for about 4265 contents. However, this above list shows the top 15 directors with the highest number of movies added on Netflix over the last decade, and we see that Jan Suter stands top in the list, followed by director Rail Campos.**
+**we don't have list of directors of all the Netflix programs since 2009. We had missing values for around 1969 directors. We have a list of directors for about 4265 Netflix programs. However, this above list shows the top 15 directors with the highest number of movies added on Netflix over the last decade, and we see that Jan Suter stands top in the list, followed by director Rail Campos.**
 
 #### Data Reference:
 This data was collected from kaggle. The link is given below:
